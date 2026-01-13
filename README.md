@@ -1,4 +1,4 @@
-# test-repo-2E
+# test-repo-Main
 Este es un repositorio para entregar trabajos en la materia de programacion estructurada
 
 Autor: Eliel Rodriguez 
